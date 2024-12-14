@@ -22,25 +22,24 @@ let walkers = [];
 ///////////////////////////////////////
 
 function preload() {
-  song.push(loadSound("limerence.mp3"));
-  song.push(loadSound("ghandi.mp3"));
-  song.push(loadSound("blackradio.mp3"));
-  song.push(loadSound("bluu.mp3"));
-  song.push(loadSound("dream.mp3"));
-  song.push(loadSound("fin.mp3"));
-  song.push(loadSound("frailure.mp3"));
-  song.push(loadSound("infatuated.mp3"));
-  song.push(loadSound("kare.mp3"));
-  song.push(loadSound("meshtop.mp3"));
-  song.push(loadSound("melanated.mp3"));
-  song.push(loadSound("melanoid.mp3"));
-  song.push(loadSound("microchip.mp3"));
-  song.push(loadSound("milk.mp3"));
-  song.push(loadSound("noanswer.mp3"));
-  song.push(loadSound("rebirth.mp3"));
-  song.push(loadSound("shackback.mp3"));
-  song.push(loadSound("spurn.mp3"));
-  song.push(loadSound("whathh.mp3"));
+  song.push(loadSound("media/limerence.mp3"));
+  song.push(loadSound("media/ghandi.mp3"));
+  song.push(loadSound("media/blackradio.mp3"));
+  song.push(loadSound("media/bluu.mp3"));
+  song.push(loadSound("media/dream.mp3"));
+  song.push(loadSound("media/fin.mp3"));
+  song.push(loadSound("media/frailure.mp3"));
+  song.push(loadSound("media/infatuated.mp3"));
+  song.push(loadSound("media/kare.mp3"));
+  song.push(loadSound("media/meshtop.mp3"));
+  song.push(loadSound("media/melanated.mp3"));
+  song.push(loadSound("media/melanoid.mp3"));
+  song.push(loadSound("media/microchip.mp3"));
+  song.push(loadSound("media/milk.mp3"));
+  song.push(loadSound("media/noanswer.mp3"));
+  song.push(loadSound("media/rebirth.mp3"));
+  song.push(loadSound("media/shackback.mp3"));
+  song.push(loadSound("media/spurn.mp3"));
 }
 
 function doubleClicked() {
